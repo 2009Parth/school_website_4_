@@ -1,0 +1,53 @@
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+iframe
+{
+    height: 500px;
+    width: 100%;
+}
+.travel_mainDiv
+{
+    border: 1px  solid  lightgray;
+}
+.travel_mainDiv img
+{
+ width: 100%;
+}
+.travel_mainDiv  h5 ,  .travel_mainDiv p
+{
+margin: 20px;
+}
+.achivement_head
+{
+    font: 18px;
+    padding: 6px 22px;
+    border-radius: 10px;
+}
+.achivements-text span , .achivements-text2 span , .achivements-text3 span
+{
+    color: orange;
+}
+.achivement_head i
+{
+    float: right;
+}
+.achivements-text , .achivements-text2 , .achivements-text3   img
+{
+    width:70%
+}
+#new
+{
+    margin-bottom: 20px;
+}
+#contact  iframe
+{
+    width: 100%;
+}
+ul
+{
+    list-style-type: none;
+}
